@@ -1,2 +1,2 @@
 # freecodecampv2
-My projects :)
+My projects
